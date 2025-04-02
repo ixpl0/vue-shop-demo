@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+:root,
+body {
+  scrollbar-gutter: stable;
+}
